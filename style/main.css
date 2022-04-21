@@ -43,11 +43,9 @@ header nav a:hover {
 /*filme principal*/
 .jogo-principal {
     font-size: 16px;
-    background: url('/img/background.jpg');
-
+    background-image: url('../img/background.jpg');
     height: 500px;
     background-size: cover;
-
     display: flex;
     flex-direction: column;
     justify-content: center;
